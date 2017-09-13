@@ -1,1 +1,11 @@
-apple-app-site-association
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2JR5G75YWX.org.Stir",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
