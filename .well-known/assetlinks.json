@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.stirapp",
+    "sha256_cert_fingerprints":
+    ["6B:98:33:B9:CE:5F:15:02:C2:5A:D4:2D:5B:87:E8:D0:56:A9:52:AB:F1:41:7D:D3:42:5E:C2:2B:E8:0E:DB:DD"]
+  }
+}]
